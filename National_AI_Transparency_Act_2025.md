@@ -1,6 +1,5 @@
 # National AI Transparency and Accountability Act of 2025
-# National AI Transparency and Accountability Act of 2025
-# National AI Transparency and Accountability Act of 2025
+
 
 A BILL
 To establish minimum transparency and accountability requirements for high-impact artificial intelligence systems deployed in the United States, and for other purposes.
