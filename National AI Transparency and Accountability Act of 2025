@@ -1,0 +1,43 @@
+# National AI Transparency and Accountability Act of 2025
+
+A BILL  
+To establish minimum transparency and accountability requirements for high-impact artificial intelligence systems deployed in the United States, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+### SECTION 1. SHORT TITLE.
+This Act may be cited as the “National AI Transparency and Accountability Act of 2025”.
+
+### SECTION 2. FINDINGS.
+Congress finds that:
+1. Artificial intelligence systems increasingly make or influence high-stakes decisions affecting Americans’ access to housing, credit, employment, education, healthcare, and criminal justice.
+2. Lack of transparency and independent oversight has led to documented harms including algorithmic discrimination and uncontrolled high-risk outcomes.
+3. The United States can protect civil rights and promote innovation by requiring basic transparency and accountability without banning any specific technology.
+
+### SECTION 3. DEFINITIONS.
+(a) Covered AI System — Any artificial intelligence system that:
+   (1) is offered as a commercial product or service in the United States; and  
+   (2) directly makes or is a controlling factor in making a consequential decision in one or more of the following domains: credit, education, employment, housing, insurance, healthcare, legal sentencing or policing, or public benefits eligibility.
+
+(b) Developer — Any person or entity that designs, trains, or substantially modifies a covered AI system.
+
+(c) Deployer — Any person or entity that uses a covered AI system in making consequential decisions affecting natural persons in the United States.
+
+### SECTION 4. TRANSPARENCY REQUIREMENTS.
+Within 180 days of enactment and annually thereafter, every developer and deployer of a covered AI system shall publish and keep current on a public website:
+
+(1) A plain-language Model Card describing intended uses, training data summary, and known limitations  
+(2) An Impact Assessment documenting pre-deployment testing for accuracy, bias, and robustness  
+(3) A machine-readable System Card following NIST AI RMF standards
+
+### SECTION 5. NOTICE REQUIREMENT.
+Deployers must provide clear notice (including a link to the documents above) whenever a covered AI system plays a material role in a consequential decision.
+
+### SECTION 6. INDEPENDENT AUDIT REQUIREMENT.
+Systems affecting >1M monthly users or >100K individuals annually in consequential decisions must undergo independent third-party audit every two years.
+
+### SECTION 7–12.
+(Enforcement by FTC + state AGs, civil penalties up to $50K/day, private right of action, safe harbor for NIST compliance, no preemption of stronger state laws, severability, effective 180 days after enactment)
+
+Full legal text continues in the PDF version.
+
